@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<KSYS_IDEMPIERE>
+  <ODTPackage ID="1000002" IsImportedODT="Y" ObjectType="ODT_APP" UUID="3de85fe9-ef4d-4b5d-bd42-1fce2756919a">
+    <Name>
+      <![CDATA[kbs.plugins.red1.calendarticket]]>
+    </Name>
+    <Description>
+      <![CDATA[kbs.plugins.red1.calendarticket]]>
+    </Description>
+    <ODTVersion ID="1000002" UUID="2e080b2d-0155-49bd-a3e2-0cd955dab83e" VersionNo="1" Version_Status="Draft">
+      <Name>
+        <![CDATA[kbs.plugins.red1.calendarticket-V1]]>
+      </Name>
+      <Description/>
+      <SystemVersion/>
+      <ODTObjectData AD_Table_ID="882" ID="1000225" ObjectData_Action="N/A" ObjectData_Status="Unapplied" ObjectData_Type="AD Object" ObjectData_UUID="a27e777f-6e5b-4392-86e5-085e4a39b5b8" Record_ID="1000002" SeqNo="10" UUID="e7864d8e-4416-4625-b5d9-2ad1de318046">
+        <Name>
+          <![CDATA[AD_EntityType-1000002]]>
+        </Name>
+        <SQL_Apply/>
+        <SQL_Unapply/>
+        <MessgeLog/>
+        <ODTObjectDataLine AD_Column_ID="15604" ID="1009187" UUID="1f3509a7-5dc6-40c7-8f8a-9ff532a4ee74">
+          <NewValue>1</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15605" ID="1009188" UUID="038695e7-5e9c-4d38-828d-40d7c9584ba7">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15606" ID="1009189" UUID="ab0e2349-14fc-48ed-b971-2c423af67751">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15607" ID="1009190" UUID="838c0a3a-4b51-4d7e-9e3a-3cc9e791372b">
+          <NewValue>N</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15592" ID="1009175" UUID="f4d147d4-a8dd-4061-87f2-fe75ead2171c">
+          <NewValue>kbs.plugins.red1.calendarticket</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15593" ID="1009176" UUID="5012801f-c803-41df-8ad7-59b8fc0b3454">
+          <NewValue>System</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>11237b53-9592-4af1-b3c5-afd216514b5d</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15594" ID="1009177" UUID="97de727c-9b30-4f10-80ae-2df8c529a71a">
+          <NewValue>*</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID>3ef41ffc-8ea9-454a-afa2-22949f402ff5</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15595" ID="1009178" UUID="8e3a7bae-107b-4d9a-bfa2-2f81c12d256d">
+          <NewValue>1000002</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15596" ID="1009179" UUID="12dab1ff-0872-4917-9f36-3e11b609aa61">
+          <NewValue>Y</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15597" ID="1009180" UUID="25e14cdf-33ae-480a-ba42-36d61df7273a">
+          <NewValue>2020-02-06 07:04:04</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15598" ID="1009181" UUID="5aa07b9f-57ad-4ae9-a23f-c0e272ae3f13">
+          <NewValue>SuperUser</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>100</NewID>
+          <OldID>0</OldID>
+          <NewUUID>986cb4dc-7161-4d77-a7c7-3832d24b19de</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15599" ID="1009182" UUID="36d814d5-2c03-4cb9-8dbc-45833e1f8706">
+          <NewValue>2020-02-06 07:04:07</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15600" ID="1009183" UUID="2e92900e-9ef2-4076-ade7-435720a4b68b">
+          <NewValue>SuperUser</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>100</NewID>
+          <OldID>0</OldID>
+          <NewUUID>986cb4dc-7161-4d77-a7c7-3832d24b19de</NewUUID>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15601" ID="1009184" UUID="a67227f8-a255-4db7-b108-0844edc0a4de">
+          <NewValue>kbs.plugins.red1.calendarticket</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15602" ID="1009185" UUID="4ce7be56-eb46-47e0-9600-fef82d147bf7">
+          <NewValue>kbs.plugins.red1.calendarticket</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="15603" ID="1009186" UUID="dac71bb3-d3e9-4c99-9b7d-14e53d1ff12a">
+          <NewValue/>
+          <OldValue/>
+          <IsNewNullValue>true</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+        <ODTObjectDataLine AD_Column_ID="60397" ID="1009191" UUID="0ed8e59c-06d0-416b-92a2-2162ff97bde7">
+          <NewValue>a27e777f-6e5b-4392-86e5-085e4a39b5b8</NewValue>
+          <OldValue/>
+          <IsNewNullValue>false</IsNewNullValue>
+          <IsOldNullValue>false</IsOldNullValue>
+          <NewID>0</NewID>
+          <OldID>0</OldID>
+          <NewUUID/>
+          <OldUUID/>
+        </ODTObjectDataLine>
+      </ODTObjectData>
+    </ODTVersion>
+  </ODTPackage>
+</KSYS_IDEMPIERE>
